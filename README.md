@@ -29,7 +29,7 @@ CSS
 
 ### 4. Iconfont.cn
 
-- Browse 1M+ icons: `http://www.iconfont.cn/`
-- Web usage: `http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.14&helptype=code`
+- [Browse 1M+ icons for Chinese UI](http://www.iconfont.cn/)
+- [Usage guide](http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.14&helptype=code)
 
 
