@@ -7,13 +7,15 @@ Use them if you want to speed up the loading for China-based users.
 
 ### 1. Bootstrap
 
+[Chinese documentation](http://v3.bootcss.com/)
+
 CSS
 
-```<link rel="stylesheet" href="https://lib.sinaapp.com/js/bootstrap/3.0.0/css/bootstrap.min.css">```
+```<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">```
 
 JS
 
-```<script src="https://lib.sinaapp.com/js/bootstrap/3.0.0/js/bootstrap.min.js"></script>```
+```<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>```
 
 ### 2. jQuery
 
@@ -25,7 +27,9 @@ JS
 
 CSS
 
-```<link rel="stylesheet" href="https://apps.bdimg.com/libs/fontawesome/4.2.0/css/font-awesome.min.css">```
+```<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">```
+
+[Bootcdn.cn for more versions](http://www.bootcdn.cn/font-awesome/)
 
 ### 4. Iconfont.cn
 
